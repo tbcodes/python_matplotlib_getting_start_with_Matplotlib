@@ -1,2 +1,4 @@
-# python_matplotlib_getting_start_with_Matplotlib
-Matplotlib for beginners! Creating some basic graphs using Matplotlib
+# Python + Matplotlib: Getting started with Matplotlib
+## Matplotlib for beginners! Creating some basic graphs using Matplotlib
+
+Youtube URL: https://www.youtube.com/watch?v=_Q_vPrA8-7Q
