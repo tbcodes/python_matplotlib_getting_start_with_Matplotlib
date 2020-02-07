@@ -1,0 +1,22 @@
+# Working with Matplotlib - Truzz Blogg
+
+import matplotlib.pyplot as plt
+
+x1 = [2, 4, 6, 8, 10]
+y1 = [2, 3, 5, 8, 12]
+
+x2 = [1, 3, 5, 7, 9]
+y2 = [11, 7, 4, 1, 2]
+
+title = "Comparing Graphs with Matplotlib"
+x_axis = "X axis"
+y_axis = "Y axis"
+
+plt.title(title)
+plt.xlabel(x_axis)
+plt.ylabel(y_axis)
+
+plt.bar(x1, y1, label = "Team 1")
+plt.bar(x2, y2, label = "Team 2")
+plt.legend()
+plt.show()
